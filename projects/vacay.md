@@ -1,28 +1,28 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/taekwondo.jpg
+title: "Olympic Taekwondo--Black belt"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Athletic
+  - Famous teacher
+summary: "I recieved my black belt in Taekwondo from Master J.K. Kim"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/taekwondo.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+One of my other biggest achievements is practing taekwondo to achieve a black belt.  Couple of things here: it is fair to say that something I achieved when I was 13 CANNOT be one of my biggest projects.  Oh wait, except it is!  Secondly, I have suffered serious leg injuries due to a long fall, and can no longer practice taekwondo.  However, the lessons I learned and the focus on the body and exercise will stay with me forever.
+It takes about 3 months to achieve a "rank-up," or get the next belt.  There are 14 belts or something.  Overall, I would say the process took 3 years.
+I would like to mention that I also was able to run a 400 meter in 56 seconds in the 8th grade and won first place in the DISTRICT in the Discus.  These may be early achievements, but they are significant to me.  I also enjoyed wrestling, but now, watching sports is good enough for me.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+<hr>
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+<pre>
 
-Here is some example code to illustrate Simple Schema use:
+</pre>
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+<hr>
+
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
