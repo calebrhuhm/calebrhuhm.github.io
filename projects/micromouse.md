@@ -25,4 +25,4 @@ I also really enjoyed the Discrete math classes, and I performed well.  I am dis
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
