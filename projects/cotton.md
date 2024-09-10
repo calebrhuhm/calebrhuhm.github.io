@@ -24,5 +24,3 @@ Carrying 50 pound crates full of dog food and cat food can be very strenuous.  W
 </pre>
 
 <hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
